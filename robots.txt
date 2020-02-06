@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://raobahngex.pistolkors.com/sitemap.xml
